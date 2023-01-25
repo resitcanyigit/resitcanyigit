@@ -10,7 +10,6 @@
 <!---
 - 👀 I’m interested in develop web software.--->
 - 🌱 I’m currently learning Javascript, Python.
-- 💬 Ask me about Asp.Net MVC, CSS and Ionic Framework.
 - 📫 How to reach me <a href="https://www.linkedin.com/in/resitcanyigit/" rel="nofollow">https://www.linkedin.com/in/resitcanyigit/</a>
 
 <h3 align="left">Connect with me:</h3>
@@ -29,7 +28,6 @@
 <a href="https://getbootstrap.com" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="30" height="30" style="max-width: 100%;"> </a>
 <a href="https://www.w3schools.com/css/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="28" height="28" style="max-width: 100%;"> </a> 
 <a href="https://www.w3.org/html/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="30" height="30" style="max-width: 100%;"> </a> 
-<a href="https://developer.android.com/" rel="nofollow"> <img src="https://iconape.com/wp-content/files/fu/369254/svg/android-logo-icon-png-svg.png" alt="jekyll" width="30" height="30" data-canonical-src="https://www.vectorlogo.zone/logos/jekyllrb/jekyllrb-icon.svg" style="max-width: 100%;"> </a>
 <a href="https://www.selenium.dev/" rel="nofollow"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Selenium_Logo.png" alt="vuejs" width="30" height="30" style="max-width: 100%;"> </a>
 <a href="https://www.postman.com/" rel="nofollow"> <img src="https://iconape.com/wp-content/png_logo_vector/postman.png" alt="bulma" width="30" height="30" style="max-width: 100%;"> </a> 
 <a href="https://www.sqlite.org/" rel="nofollow"> <img src="https://camo.githubusercontent.com/1b8a779f280e099e2d67ab949dad604e25ce0d321e66474c04430201790b3874/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f73716c6974652f73716c6974652d69636f6e2e737667" alt="sqlite" width="30" height="30" data-canonical-src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" style="max-width: 100%;"> </a>
